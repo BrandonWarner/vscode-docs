@@ -15,6 +15,8 @@ We have written a [Yeoman generator](https://github.com/Microsoft/vscode-generat
 
 Install Yeoman and the VS Code Extension generator from the command prompt:
 
+Note: As a prerequisite one must have [Node.js](https://nodejs.org/en/) installed 
+
 ```bash
 npm install -g yo generator-code
 ```
